@@ -18,4 +18,11 @@ When making contributions to existing repos, here are a few things to consider:
 - Check out what packages are currently dependencies in the package's DESCRIPTION file. It's courteous not to submit code which requires additional dependencies without checking with the maintainer first 
 - When possible, please include unit tests with your PR to help maintainers get confidence in your submission. This may also help them to accept your contribution more quickly!
 
+To help navigate the issues, we've implemented the following labeling system based on the types of ideas and expected outcomes:
+
+- `enhancement`: contribution to existing project(s)
+- `documentation`: demos, cookbooks, galleries, and examples of using existing packages and tools
+- `new project`: brand new project / package from scratch
+- `interest area`: 'birds of a feather' style assertion of shared interest even if no specific project in mind yet (e.g. causal inference, NLP)
+
 Happy brainstorming! We look forward to seeing you all in a couple weeks week!
